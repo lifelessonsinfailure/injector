@@ -1,2 +1,4 @@
 # injector
-for roblox
+Use an alt account
+Crashes after 10 minutes. 
+#plz star repo
